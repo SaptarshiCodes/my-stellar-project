@@ -1,3 +1,5 @@
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/332bf4a1-dcf3-4125-a3fe-ff0127de8d2a" />
+
 # Skill Verification Smart Contract (Soroban)
 
 ## 📌 Project Description
@@ -44,4 +46,4 @@ This can be used for:
    ```bash
    cargo build --target wasm32-unknown-unknown --release
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/332bf4a1-dcf3-4125-a3fe-ff0127de8d2a" />
+
