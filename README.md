@@ -43,3 +43,5 @@ This can be used for:
 2. Build contract:
    ```bash
    cargo build --target wasm32-unknown-unknown --release
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/332bf4a1-dcf3-4125-a3fe-ff0127de8d2a" />
